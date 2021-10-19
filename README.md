@@ -3,6 +3,8 @@ Resources for you from our three-day, virtual conference.
 
 
 # Day 1
+Replay: https://www.crowdcast.io/e/developer-festival
+
 |Session Name|Speakers|Session Resources|
 |----|----|----|
 |Explore Quantum: Qiskit and RasQberry|[Jan-Rainer Lahmann](https://www.linkedin.com/in/janlahmann/)| RasQberry GitHub repo: http://rasqberry.org, [Try real Quantum Computers on the IBM Cloud](http://quantum-computing.ibm.com), See all available real [quantum computers](https://quantum-computing.ibm.com/services?services=systems) (and detailed calibration data, coupling map, etc), Learn Quantum Computing with the [Qiskit Textbook](http://qiskit.org/textbook/), Interactive visualization of the [Bloch Sphere](https://javafxpert.github.io/grok-bloch/), Article: [Hands-On Journey to Quantum Computing with IBM](https://medium.com/@jan.lahmann/hands-on-journey-to-quantum-computing-with-ibm-2487f0b2e10b), GitHub repo [Fun with Quantum](https://github.com/JanLahmann/Fun-with-Quantum), Play a [Quantum Coin Game](https://ibm.biz/QuantumCoinGame) online
@@ -11,6 +13,8 @@ Resources for you from our three-day, virtual conference.
 |Quickly Integrate a Machine Learning Model in your Chatbot & Deploy to Whatsapp| [Khalil Faraj](https://www.linkedin.com/in/khalilfaraj/) and [Fawaz Siddiqi](https://www.linkedin.com/in/fawazsiddiqi/)| Hands-on http://ibm.biz/devfest2021handson, Slides https://ibm.biz/devfest2021-slides, Watson Assistant Learning Path (https://developer.ibm.com/learningpaths/get-started-watson-assistant)
 
 # Day 2
+Register: https://www.crowdcast.io/e/developer-festival-2
+
 |Session Name|Speakers|Session Resources|
 |----|----|----|
 |Open Source in the world of Java|[Grace Jansen](https://www.linkedin.com/in/grace-jansen) and [Jamie Coleman](https://www.linkedin.com/in/jamie-coleman)| Resources: https://openliberty.io/guides/
@@ -20,6 +24,8 @@ Resources for you from our three-day, virtual conference.
 |Build your first Machine Learning model and get started with Data Science|[Felix Augenstein](https://www.linkedin.com/in/felixaugenstein/)|Recording https://www.crowdcast.io/e/auto-data-ai|
 
 # Day 3
+Register: https://www.crowdcast.io/e/developer-festival-3
+
 |Session Name|Speakers|Session Resources|
 |----|----|----|
 |Deploy a Containerized Microservices based Application to a Serverless Framework| [Thomas Suedbroecker](https://www.linkedin.com/in/thomassuedbroecker/)|Tutorial https://developer.ibm.com/tutorials/deploy-a-java-microservices-application-to-ibm-cloud-code-engine/, IBM Cloud Code Engine https://www.ibm.com/cloud/code-engine|
