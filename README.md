@@ -1,9 +1,11 @@
-# DeveloperFestival21
-Resources for you from our three-day, virtual conference.
+# Developer Festival 2021
+Resources for you from our three-day, virtual conference. Developer experts from IBM and beyond collaborate to show you how to get hands-on with open source and enterprise technologies.
 
+## Prerequisites
+☁️ Sign in or sign up for an IBM Cloud account: https://ibm.biz/devfest2021
 
-# Day 1
-Replay: https://www.crowdcast.io/e/developer-festival
+# Day 1 - 
+🎥 Replay: https://www.crowdcast.io/e/developer-festival
 
 |Session Name|Speakers|Session Resources|
 |----|----|----|
@@ -12,8 +14,8 @@ Replay: https://www.crowdcast.io/e/developer-festival
 |Modernise your Machine Learning Workflow with Low Code Tools|[Anam Mahmood](https://www.linkedin.com/in/anam-mahmood-sheikh/) and [Mridul Bhandari](https://www.linkedin.com/in/mridul-bhandari/)|GitHub repo https://github.com/IBMDeveloperMEA/DevFest2021
 |Quickly Integrate a Machine Learning Model in your Chatbot & Deploy to Whatsapp| [Khalil Faraj](https://www.linkedin.com/in/khalilfaraj/) and [Fawaz Siddiqi](https://www.linkedin.com/in/fawazsiddiqi/)| Hands-on http://ibm.biz/devfest2021handson, Slides https://ibm.biz/devfest2021-slides, Watson Assistant Learning Path (https://developer.ibm.com/learningpaths/get-started-watson-assistant)
 
-# Day 2
-Register: https://www.crowdcast.io/e/developer-festival-2
+# Day 2 - Open Source & AI
+🎥 Register: https://www.crowdcast.io/e/developer-festival-2
 
 |Session Name|Speakers|Session Resources|
 |----|----|----|
@@ -23,8 +25,8 @@ Register: https://www.crowdcast.io/e/developer-festival-2
 |Ethics and Artificial Intelligence| [Georges-Henri Moll] (https://www.linkedin.com/in/georgeshenrimoll) and [Xavier Rey-Robert](https://www.linkedin.com/in/xreyrobert/)| [Ethics](https://www.ibm.com/artificial-intelligence/ethics), [AI Fairness 360](https://aif360.mybluemix.net/), A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models: https://github.com/Trusted-AI/AIF360, [Medical Expenditure Tutorial](https://nbviewer.org/github/Trusted-AI/AIF360/blob/master/examples/tutorial_medical_expenditure.ipynb), [Interview of Francesca Rossi](https://www.youtube.com/watch?v=yoxmfQQ8LTM&ab_channel=CERN|), AI Ethics Global Leader at IBM
 |Build your first Machine Learning model and get started with Data Science|[Felix Augenstein](https://www.linkedin.com/in/felixaugenstein/)|Recording https://www.crowdcast.io/e/auto-data-ai|
 
-# Day 3
-Register: https://www.crowdcast.io/e/developer-festival-3
+# Day 3 - Cloud
+🎥 Register: https://www.crowdcast.io/e/developer-festival-3
 
 |Session Name|Speakers|Session Resources|
 |----|----|----|
@@ -33,4 +35,5 @@ Register: https://www.crowdcast.io/e/developer-festival-3
 |How to use Universal Base Image to deploy applications on Red Hat OpenShift|Asna Javed and Masa Abushamleh|Learning Path https://developer.ibm.com/learningpaths/universal-application-image/|
 |CI and CD for Kubernetes|[Aco Vidovic](https://www.linkedin.com/in/aco-vidovic-6930647)||
 
-
+## Feedback
+💬 Your feedback is very important to us. Please take a minute to share your thoughts with us: https://ibm.biz/Bdf8pm  
